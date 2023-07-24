@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Barto-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">
-  <img align="center" alt="Barto-PHP" height="30" width="30" src="https://www.freepnglogos.com/pics/php-logo">
+  <img align="center" alt="Barto-PHP" height="40" width="40" src="./img/php-logo.png">
 </div>
 
 <br />
