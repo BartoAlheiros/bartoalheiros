@@ -7,6 +7,7 @@
 - 🕵️‍♀️ Aberto a projetos
 
 <details>
+<summary>:zap: Tecnologias</summary>
 <div style="display: flex; justify-content: center;"><br>
   <img align="center" alt="Barto-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">
   <img align="center" alt="Barto-PHP" height="40" width="40" src="./img/php-logo.png">
