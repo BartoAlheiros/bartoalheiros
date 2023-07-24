@@ -8,7 +8,7 @@
 
 <details>
 <summary>:zap: Tecnologias</summary>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Barto-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">
   <img align="center" alt="Barto-PHP" height="40" width="40" src="./img/php-logo.png">
   <img align="center" alt="Barto-Java" height="42" width="42" style="margin: 0 20 20 20;" src="./img/java-logo.png">
