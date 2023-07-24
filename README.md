@@ -10,7 +10,7 @@
   <img align="center" alt="Barto-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">
   <img align="center" alt="Barto-PHP" height="40" width="40" src="./img/php-logo.png">
   <img align="center" alt="Barto-Java" height="45" width="45" src="./img/java-logo.png">
-  <img align="center" alt="Barto-Spring" height="55" width="55" src="./img/spring-logo.svg">
+  <img align="center" alt="Barto-Spring" height="65" width="65" src="./img/spring-logo.svg">
 </div>
 
 <br />
