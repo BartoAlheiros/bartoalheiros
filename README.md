@@ -7,7 +7,7 @@
 - 🕵️‍♀️ Aberto a projetos
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Barto-Angular" height="30" width="80" src="https://w7.pngwing.com/pngs/620/322/png-transparent-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle-logo.png">
+  <img align="center" alt="Barto-Angular" height="30" width="80" src="https://angular.io/assets/images/logos/angular/angular.png">
 </div>
 
 <br />
