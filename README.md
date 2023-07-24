@@ -15,6 +15,11 @@
 </div>
 </details>
 
+<div>
+<a href="https://www.linkedin.com/in/bartolomeu-alheiros-8a1641142/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
+
 <br />
 
 <div style="display: inline_block"><br>
