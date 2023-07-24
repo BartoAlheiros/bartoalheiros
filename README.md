@@ -6,4 +6,8 @@
 - 👨‍🎓 Cientista da Computação por formação, pela UFRPE, em 2023
 - 🕵️‍♀️ Aberto a projetos
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Barto-Angular" height="30" width="40" src="https://w7.pngwing.com/pngs/620/322/png-transparent-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle-logo.png">
+</div>
+
 <img align="left" alt="Barto Alheiros' GitHub Stats" src="https://readme-stats-bartoalheiros.vercel.app/api?username=bartoalheiros&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
