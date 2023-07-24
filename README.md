@@ -7,7 +7,7 @@
 - 🕵️‍♀️ Aberto a projetos
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Barto-Angular" height="30" width="60" src="https://angular.io/assets/images/logos/angular/angular.png">
+  <img align="center" alt="Barto-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.png">
 </div>
 
 <br />
