@@ -10,7 +10,7 @@
 <summary>:zap: Tecnologias</summary>
 <div style="display: inline_block">
   <img align="center" alt="Barto-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Barto-PHP" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />        
+  <img align="center" alt="Barto-PHP" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />        
   <img align="center" alt="Barto-Java" height="30" width="42" style="margin: 0 20 20 20;" src="./img/java-logo.png">
   <img align="center" alt="Barto-Spring" height="60" width="60" style="padding-bottom: 30;" src="./img/spring-logo.svg">
 </div>
