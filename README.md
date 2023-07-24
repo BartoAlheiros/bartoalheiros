@@ -9,10 +9,18 @@
 <details>
 <summary>:zap: Tecnologias</summary>
 <div style="display: flex; justify-content: center;"><br>
-  <img align="center" alt="Barto-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">
-  <img align="center" alt="Barto-PHP" height="40" width="40" src="./img/php-logo.png">
-  <img align="center" alt="Barto-Java" height="42" width="42" style="margin: 0 20 20 20;" src="./img/java-logo.png">
-  <img align="center" alt="Barto-Spring" height="60" width="60" style="padding-bottom: 30;" src="./img/spring-logo.svg">
+  <div style="display: flex; justify-content: center;">
+    <img align="center" alt="Barto-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img align="center" alt="Barto-PHP" height="40" width="40" src="./img/php-logo.png">
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img align="center" alt="Barto-Java" height="42" width="42" style="margin: 0 20 20 20;" src="./img/java-logo.png">
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <img align="center" alt="Barto-Spring" height="60" width="60" style="padding-bottom: 30;" src="./img/spring-logo.svg">
+  </div>
 </div>
 </details>
 
