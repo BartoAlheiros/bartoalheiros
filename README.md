@@ -6,7 +6,7 @@
 - 👨‍🎓 Cientista da Computação por formação, pela UFRPE, em 2023
 - 🕵️‍♀️ Aberto a projetos
 
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: center;"><br>
   <img align="center" alt="Barto-Angular" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.png">
   <img align="center" alt="Barto-PHP" height="40" width="40" src="./img/php-logo.png">
   <img align="center" alt="Barto-Java" height="45" width="45" style="margin: 0 10 10 10;" src="./img/java-logo.png">
