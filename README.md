@@ -1,5 +1,5 @@
 ### Olá, eu sou o Bartô Alheiros! 👋
-- 🛠 Trabalho atualmente em projetos para melhorar meus conhecimentos em desenvolvimento web
+- 🛠 Trabalho atualmente em projetos para melhorar meus conhecimentos em desenvolvimento web fullstack
 - 🌱 Estudando PHP, Angular e Springboot
 - 👯 Procurando jobs em empresas como desenvoldedor web fullstack
 - 😄 Pronomes: He/Him
