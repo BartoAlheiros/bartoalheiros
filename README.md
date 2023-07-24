@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudo PHP, Angular e Springboot
 - 😄 Pronomes: He/Him
 - 👨‍🎓 Cientista da Computação por formação, pela UFRPE, em 2023
-  
+<hr />  
 <details>
 <summary>:zap: Tecnologias</summary>
 <div style="display: inline_block">
