@@ -2,6 +2,7 @@
 - 👽 Sou desenvolvedor web fullstack
 - 🕵️‍♀️ Aberto a projetos
 - 🌱 Atualmente estudo PHP, Java, Angular e Springboot
+- 👨‍💻 Já trabalhei profissionalmente com: PHP e Laravel.
 - 😄 Pronomes: He/Him
 - 👨‍🎓 Cientista da Computação pela UFRPE, Brasil. Concluído em: abr 2023.
   
