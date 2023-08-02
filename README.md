@@ -1,9 +1,9 @@
 ### Olá, eu sou o Bartô Alheiros! 👋
 - 👽 Sou desenvolvedor web fullstack
 - 🕵️‍♀️ Aberto a projetos
-- 🌱 Atualmente estudo PHP, Angular e Springboot
+- 🌱 Atualmente estudo PHP, Java, Angular e Springboot
 - 😄 Pronomes: He/Him
-- 👨‍🎓 Cientista da Computação por formação, pela UFRPE, em 2023
+- 👨‍🎓 Cientista da Computação pela UFRPE, Brasil. Concluído em: abr 2023.
   
 <details>
 <summary>:zap: Tecnologias</summary>
