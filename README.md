@@ -5,7 +5,7 @@
 - 😄 Pronomes: He/Him
 - 👨‍🎓 Cientista da Computação pela UFRPE, Brasil. Concluído em: abr 2023.
   
-<details>
+<details open>
 <summary>:zap: Tecnologias</summary>
 <div style="display: inline_block">
   <img align="center" alt="Barto-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />        
