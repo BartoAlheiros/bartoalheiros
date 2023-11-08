@@ -1,7 +1,7 @@
 ### Olá, eu sou o Bartô Alheiros! 👋
 - 👽 Sou desenvolvedor web fullstack
 - 🕵️‍♀️ Aberto a projetos
-- 🌱 Atualmente me dedicando ao curso Fullstack: Desenvolvimento Web Completo - 20 cursos + 20 projetos(PHP).
+- 🌱 Atualmente me dedicando a desenvolver minhas habilidades como desenvolvedor web
 - 😄 Pronomes: He/Him
 - 👨‍🎓 Cientista da Computação pela UFRPE, Brasil. Concluído em: abr 2023.
   
