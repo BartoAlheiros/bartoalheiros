@@ -3,7 +3,7 @@
 - 🕵️‍♀️ Aberto a projetos
 - 🌱 Atualmente me dedicando a desenvolver minhas habilidades como desenvolvedor web
 - 😄 Pronomes: He/Him
-- 👨‍🎓 Cientista da Computação pela UFRPE, Brasil. Concluído em: abr 2023.
+- 👨‍🎓 Bacharel em Computação pela UFRPE, Recife, Brasil. Concluído em: abr 2023.
   
 <details open>
 <summary>:zap: Tecnologias</summary>
