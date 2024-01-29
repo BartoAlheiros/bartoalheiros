@@ -3,7 +3,7 @@
 - 🕵️‍♀️ Aberto a projetos
 - 🌱 Atualmente me dedicando a desenvolver minhas habilidades como desenvolvedor web
 - 😄 Pronomes: He/Him
-- 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Brasil.
+- 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil.
   
 <details open>
 <summary>:zap: Tecnologias</summary>
