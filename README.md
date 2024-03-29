@@ -5,7 +5,7 @@
 - 👨‍💻 Tecnologias que já andei estudando: Também já mexi com: Angular e Vue.js e Python para web (Django). 
 - 🕵️‍♀️ Aberto a projetos
 - 🌱 Atualmente trabalho como desenvolvedor Front-end no serviço público e me dedico a desenvolver mais minhas habilidades como desenvolvedor web, através de cursos e troca de experiências com outros dev's.
-- 😄 Pronomes: He/Him
+- 🧑 Pronomes: He/Him
   
 <details open>
 <summary>:zap: Tecnologias</summary>
