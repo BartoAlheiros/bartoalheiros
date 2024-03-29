@@ -1,6 +1,8 @@
 ### Olá, eu sou o Bartô Alheiros! 👋
 - 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil.
-- 👽 Sou desenvolvedor web fullstack com experiência em PHP, Laravel, Python, HTML, CSS, Javascript, JQuery, Next.js e um pouco dos frameworks front-end: Angular e Vue.js
+- 👽 Sou desenvolvedor web fullstack.
+- 💻 Stacks com as quais já trabalhei: PHP, Laravel, HTML, CSS, Javascript, JQuery, Ajax, Next.js.
+- 👨‍💻 Tecnologias que já andei estudando: Também já mexi com: Angular e Vue.js e Python para web (Django). 
 - 🕵️‍♀️ Aberto a projetos
 - 🌱 Atualmente me dedicando a desenvolver minhas habilidades como desenvolvedor web
 - 😄 Pronomes: He/Him
